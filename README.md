@@ -8,4 +8,5 @@ When the button "CLICK ME" is clicked, the text at the top is replaced with "Hi,
 2. Click the "CLICK ME" button to see the Android application greet.
 
 <h2>Screenshot</h2>
-![Alt text](https://github.com/tun82434/HelloWorldLab/blob/master/Martin_Hello.png "Optional title")
+![Photo](Martin_Hello.png)
+
